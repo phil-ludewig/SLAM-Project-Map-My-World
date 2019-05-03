@@ -13,8 +13,6 @@ https://www.youtube.com/watch?v=aYmwZE76j70
 ## Abstract
 Most mobile robot have the basic requirement to localize themselves in a given map. In reality however, an environment is often unknown or changes unexpectedly. Therefore, the ability to map an environment from scratch and localize the robot at the same time (SLAM) opens up a wide range of new applications. The goal of this project is to gain experience in using a SLAM algorithm called RTAB-MAP while identifying important influences on the quality of the mapping results.
 
-Full project writeup in [Map My World Writeup.pdf]
-
 ## Results
 #### Map Overview:
 ![Overview](Results/Images/customMap_Overview.png "ALT")
@@ -27,3 +25,6 @@ Full project writeup in [Map My World Writeup.pdf]
 
 #### 2D Occupancy Grid:
 ![3DMap](Results/Images/kitchenMap_2D_occupancyGrid.png "ALT")
+
+#### RTAB-MAP Feature Detection:
+![3DMap](Results/Images/customMap_features_highCount.png "ALT")
