@@ -2,6 +2,9 @@
 
 This project demonstrates the application of the SLAM RTAB-MAP algorithm in a simulated Gazebo environment.
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 #### Video of the mapping process:
 https://www.youtube.com/watch?v=aYmwZE76j70
 
