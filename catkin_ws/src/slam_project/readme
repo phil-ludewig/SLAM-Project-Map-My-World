@@ -1,0 +1,9 @@
+Project MapMyWorld:
+Launch as follows:
+1) world.launch
+2) mapping.launch
+3) teleop.launch
+4) rviz.launch (open slam_project/config/robot_slam.rviz manually if default launches)
+
+Open rtabmap database:
+rtabmap-databaseViewer ~/.ros/rtabmap.db (yes for using db parameters, 1)View->Constraints View 2)View->Graph View)
