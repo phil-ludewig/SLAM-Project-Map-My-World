@@ -16,14 +16,14 @@ Most mobile robot have the basic requirement to localize themselves in a given m
 Full project writeup in [Map My World Writeup.pdf]
 
 ## Results
-#### Map Overview
-![Overview](Results/Images/customMap_Overview.png =250x"ALT")
+#### Map Overview:
+![Overview](Results/Images/customMap_Overview.png "ALT")
 
-#### 3D Result
-![3DMap1](Results/Images/customMap_3D_view1.png =250x"ALT")
+#### 3D Result:
+![3DMap1](Results/Images/customMap_3D_view1.png "ALT")
 
-#### Error in Loop Closure
-![3DMap](Results/Images/customMap_3D_matchingError.png =250x"ALT")
+#### Error in Loop Closure:
+![3DMap](Results/Images/customMap_3D_matchingError.png "ALT")
 
-#### 2D Occupancy Grid
-![3DMap](Results/Images/kitchenMap_2D_occupancyGrid.png =250x"ALT")
+#### 2D Occupancy Grid:
+![3DMap](Results/Images/kitchenMap_2D_occupancyGrid.png "ALT")
